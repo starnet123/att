@@ -1,11 +1,11 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/starnet123/att/main/README.md",
   "Sms": "https://kiritosshxd.github.io/Conecta4g_site/UrlSms",
   "EmailFeedback": "kiritosshxd5733@gmail.com",
   "UrlContato": "https://t.me/kiritosshxd",
-  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "UrlTermos": "https://github.com/starnet123/att/blob/main/README.md",
   "CheckUser": "true",
   "Udp": [
     {
